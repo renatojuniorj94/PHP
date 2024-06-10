@@ -9,3 +9,8 @@ Criando variável:
 $nome = "Renato";
 
 O php é processado antes do html e do JavaScript
+
+----------------Aula 3 - Criando novo projeto localhost-------------------
+
+Local para hospedar nossos projetos php:
+C: > xampp > htdocs
