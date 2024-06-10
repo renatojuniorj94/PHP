@@ -14,3 +14,5 @@ O php é processado antes do html e do JavaScript
 
 Local para hospedar nossos projetos php:
 C: > xampp > htdocs
+
+--------------Aula 4 - Sintaxe----------------
