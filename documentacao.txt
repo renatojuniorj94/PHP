@@ -1,0 +1,11 @@
+-----------------Aula 1 - Introdução ao PHP-------------------
+PHP é uma linguagem backend, portanto não possível ler pelo navegador
+
+<?php
+    echo "<h1>Assim é um script php</h1>";
+?>
+
+Criando variável:
+$nome = "Renato";
+
+O php é processado antes do html e do JavaScript
