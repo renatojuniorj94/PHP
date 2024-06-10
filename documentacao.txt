@@ -16,3 +16,13 @@ Local para hospedar nossos projetos php:
 C: > xampp > htdocs
 
 --------------Aula 4 - Sintaxe----------------
+
+// = Comentario
+# Comentario
+/*
+Comentario de multiplas linhas
+*/
+echo não é case sensitive, então podemos colocar em maiusculo, minusculo ou misturado
+Exemplo:
+Echo, ECHO ou echo
+Variáveis são case sensitive
