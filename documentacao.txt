@@ -50,3 +50,25 @@ function teste(){
 ----------------Aula 6 - Tipos de saída (Echo e print)-------------------
 https://www.php.net/manual/pt_BR/function.print.php
 https://www.php.net/manual/pt_BR/function.echo.php
+
+----------------Aula 7 - Tipos de dados---------------------
+Strings:
+https://www.php.net/manual/pt_BR/language.types.string.php
+
+Integer(números interiros):
+https://www.php.net/manual/pt_BR/language.types.integer.php
+
+Float(Números flutuantes, decimais):
+https://www.php.net/manual/pt_BR/language.types.float.php
+
+Booleans(True or False):
+https://www.php.net/manual/pt_BR/language.types.boolean.php
+
+Arrays(matriz):
+https://www.php.net/manual/pt_BR/language.types.array.php
+
+Object(objeto):
+https://www.php.net/manual/pt_BR/language.types.object.php
+
+NULL:
+https://www.php.net/manual/pt_BR/language.types.null.php
