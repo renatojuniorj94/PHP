@@ -26,3 +26,27 @@ echo não é case sensitive, então podemos colocar em maiusculo, minusculo ou m
 Exemplo:
 Echo, ECHO ou echo
 Variáveis são case sensitive
+
+-------------------Aula 5 - Variáveis------------------
+https://www.php.net/manual/pt_BR/language.variables.php
+
+Para declarar uma variável:
+$nome = 
+
+Não podemos começar uma varável com números.
+
+Em php temos que declarar se uma variável é global  ( global $nome; )
+Por exemplo se ela for declarada dentro de uma função, para executar fora da função precisa ser declarada como global.
+
+function teste(){
+        global $x, $y, $z;
+        $z = $x + $y;
+        echo "<br>O valor de x dentro de uma função: $x";
+    }
+    teste();
+    echo "<br>O valor de x fora da função: $x";
+    echo "<br>O valor de z fora da função: $z";
+
+----------------Aula 6 - Tipos de saída (Echo e print)-------------------
+https://www.php.net/manual/pt_BR/function.print.php
+https://www.php.net/manual/pt_BR/function.echo.php
